@@ -195,6 +195,8 @@ The API is now live at `http://localhost:8000/api/v1/`.
 
 ### Step 8 — Set up and start the frontend
 
+<img width="633" height="562" alt="Screenshot 2026-03-01 at 8 32 36 AM" src="https://github.com/user-attachments/assets/e21aa21d-e112-4f6b-bc42-fa6d3087f9e4" />
+
 Open a new terminal tab:
 
 ```bash
